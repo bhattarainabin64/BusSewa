@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "884502786471",
+    "firebase_url": "https://roadway-core-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "roadway-core",
+    "storage_bucket": "roadway-core.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884502786471:android:e6d8965da118dbc39a4682",
+        "android_client_info": {
+          "package_name": "com.example.roadway_core"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884502786471-1e7e1utjaht4c67rfaf6tg2tphukfdvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roadway_core",
+            "certificate_hash": "d26adc17d4774c9855f5ce08d96fd032a5dde0cd"
+          }
+        },
+        {
+          "client_id": "884502786471-aofde1sfmrigq3ki7jo0bfcb9g5viaej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roadway_core",
+            "certificate_hash": "200ab724601925a9d9dfb3666bf4373faf88bf84"
+          }
+        },
+        {
+          "client_id": "884502786471-mrako5fefs897lkg5sn9ei9l5jkb2hpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIse5zEqNUNZmlOEATdxSW-XeyOQQULQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884502786471-mrako5fefs897lkg5sn9ei9l5jkb2hpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
